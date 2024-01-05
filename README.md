@@ -13,6 +13,7 @@
   - Quantidade no estoque
 - Vendas
 - Fornecedores
+- Ordem de compra
 
 ### Casos de uso
 
